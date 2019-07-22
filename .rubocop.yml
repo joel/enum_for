@@ -49,3 +49,9 @@ Style/BlockDelimiters:
 
 RSpec/MessageSpies:
   Enabled: false
+
+RSpec/ExampleLength:
+  Max: 10
+
+RSpec/DescribedClass:
+  Enabled: false
