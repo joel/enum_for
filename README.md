@@ -27,6 +27,7 @@ Alternative to ActiveRecord::Enum for API use.
 
 ### Usage 
 
+[![Gem Version](https://badge.fury.io/rb/enum_for.svg)](https://badge.fury.io/rb/enum_for)
 ![Gem](https://img.shields.io/gem/dv/enum_for/0.1.0.svg)
 ![Gem](https://img.shields.io/gem/v/enum_for.svg)
   
